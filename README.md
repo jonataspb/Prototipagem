@@ -4,4 +4,6 @@ Autores:
 
 Jônatas Pinheiro Bezerra
 
-Rinaldo Tavares
+Rinaldo Tavares Silva Filho
+
+Adriano Filho
